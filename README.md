@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|---------|:----------:|:--------:|:----:|
-| 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-09-02 |
+| 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-09-03 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟡 Medium | `C++` | 2026-09-02 |
 
 ---
