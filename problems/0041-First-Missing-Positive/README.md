@@ -2,35 +2,37 @@
 
 # 41. First Missing Positive
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-03-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--03-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
-[![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/first-missing-positive/)
+[![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/first-missing-positive/)
 
 </div>
 
 ---
 
-## 🏷️ Topics
+<div align="center">
 
-`Array` `Hash Table`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
+  <img alt="Topics: Array, Hash Table — best runtime 111 ms (Beats 5%), best memory 84.5 MB (Beats 5%)" src="panel-dark.svg">
+</picture>
 
-## 🏆 Best Performance
+</div>
 
-| Metric | This Attempt | All-time Best |
-|--------|:-----------:|:------------:|
-| ⚡ Runtime | 111 ms (Beats 5%) | **111 ms (Beats 5%)** |
-| 💾 Memory  | 84.5 MB (Beats 5%) | **84.5 MB (Beats 5%)** |
+---
 
-## 💡 Solutions (2 total)
+### SOLUTIONS (3)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-09-03 |
-| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-09-03 ← **latest** |
+| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-09-03 |
+| 3 | [sol3.cpp](./sol3.cpp) | `C++` | 2026-09-03 ← **latest** |
 
 ---
 
-## 📋 Problem Description
+### PROBLEM DESCRIPTION
 
 Given an unsorted integer array `nums`. Return the *smallest positive integer* that is *not present* in `nums`.
 
@@ -78,6 +80,8 @@ You must implement an algorithm that runs in `O(n)` time and uses `O(1)` auxilia
 
 ---
 
-<p align="right">
-  <sub>🤖 Auto-pushed by <a href="https://deveshsamant.in/">Devesh Samant</a>'s <strong>LeetSync</strong> extension</sub>
-</p>
+<div align="center">
+
+<sub>Auto-synced by <strong>LeetSync</strong> · Built by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
+
+</div>
