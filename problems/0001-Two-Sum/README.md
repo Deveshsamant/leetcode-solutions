@@ -2,7 +2,7 @@
 
 # 1. Two Sum
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-02-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Java-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-03-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/two-sum/)
 
@@ -18,17 +18,15 @@
 
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
-| ⚡ Runtime | 2 ms (Beats 99%) | **2 ms (Beats 99%)** 🆕 |
-| 💾 Memory  | 47.4 MB (Beats 11%) | **47.4 MB (Beats 11%)** |
-
-> 🎉 **New personal best!** Runtime improved!
+| ⚡ Runtime | 2 ms (Beats 99%) | **2 ms (Beats 99%)** |
+| 💾 Memory  | 47.3 MB (Beats 24%) | **47.3 MB (Beats 24%)** |
 
 ## 💡 Solutions (2 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.java](./sol1.java) | `Java` | 2026-09-02 |
-| 2 | [sol2.java](./sol2.java) | `Java` | 2026-09-02 ← **latest** |
+| 1 | [sol1.java](./sol1.java) | `Java` | 2026-09-03 |
+| 2 | [sol2.java](./sol2.java) | `Java` | 2026-09-03 ← **latest** |
 
 ---
 
