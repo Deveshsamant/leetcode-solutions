@@ -13,20 +13,24 @@
 
 </div>
 
-## 📚 All Solutions
+---
+
+<div align="center">
+
+### ALL SOLUTIONS
+
+</div>
 
 | # | Problem | Difficulty | Language | Date |
-|:---:|---------|:----------:|:--------:|:----:|
-| 1 | [Two Sum](problems/0001-Two-Sum) | 🟢 Easy | `Java` | 2026-09-03 |
-| 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟡 Medium | `C++` | 2026-09-02 |
-| 41 | [First Missing Positive](problems/0041-First-Missing-Positive) | 🔴 Hard | `C++` | 2026-09-03 |
+|:---:|:--------|:----------:|:--------:|:----:|
+| 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Java` | 2026-09-03 |
+| 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-09-02 |
+| 41 | [First Missing Positive](problems/0041-First-Missing-Positive) | 🟥 Hard | `C++` | 2026-09-03 |
 
 ---
 
 <div align="center">
 
-<sub>🤖 Auto-synced by <strong>LeetSync</strong> Chrome Extension</sub>
-
-<sub>Built with ❤️ by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
+<sub>Auto-synced by <strong>LeetSync</strong> · Built by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
 
 </div>
