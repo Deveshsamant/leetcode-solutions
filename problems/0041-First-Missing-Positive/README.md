@@ -2,7 +2,7 @@
 
 # 41. First Missing Positive
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-1-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-03-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-2-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-09-03-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/first-missing-positive/)
 
@@ -18,16 +18,15 @@
 
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
-| ⚡ Runtime | 111 ms (Beats 5%) | **111 ms (Beats 5%)** 🆕 |
-| 💾 Memory  | 84.4 MB (Beats 5%) | **84.4 MB (Beats 5%)** |
+| ⚡ Runtime | 111 ms (Beats 5%) | **111 ms (Beats 5%)** |
+| 💾 Memory  | 84.5 MB (Beats 5%) | **84.5 MB (Beats 5%)** |
 
-> 🎉 **New personal best!** Runtime improved!
-
-## 💡 Solutions (1 total)
+## 💡 Solutions (2 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
-| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-09-03 ← **latest** |
+| 1 | [sol1.cpp](./sol1.cpp) | `C++` | 2026-09-03 |
+| 2 | [sol2.cpp](./sol2.cpp) | `C++` | 2026-09-03 ← **latest** |
 
 ---
 
