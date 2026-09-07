@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-17-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-18-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-9-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -26,6 +26,7 @@
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Java` | 2026-09-03 |
 | 2 | [Add Two Numbers](problems/0002-Add-Two-Numbers) | 🟧 Medium | `Java` | 2026-09-06 |
 | 11 | [Container With Most Water](problems/0011-Container-With-Most-Water) | 🟧 Medium | `C++` | 2026-09-02 |
+| 15 | [3Sum](problems/0015-3Sum) | 🟧 Medium | `Java` | 2026-09-07 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `Java` | 2026-09-06 |
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `Java` | 2026-09-06 |
 | 25 | [Reverse Nodes in k-Group](problems/0025-Reverse-Nodes-in-k-Group) | 🟥 Hard | `Java` | 2026-09-06 |
