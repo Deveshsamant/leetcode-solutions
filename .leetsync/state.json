@@ -1,0 +1,204 @@
+{
+  "v": 1,
+  "updatedAt": 1788864225909,
+  "devices": {
+    "ee3ef22e-8f1f-4255-b22a-6f6aca9a3e12": {
+      "lastSeen": 1788864224462
+    }
+  },
+  "problems": {
+    "1": {
+      "date": "2026-09-03",
+      "difficulty": "Easy",
+      "folderName": "0001-Two-Sum",
+      "language": "Java",
+      "number": 1,
+      "solutionCount": 2,
+      "title": "Two Sum",
+      "at": 1788864224462
+    },
+    "2": {
+      "date": "2026-09-06",
+      "difficulty": "Medium",
+      "folderName": "0002-Add-Two-Numbers",
+      "language": "Java",
+      "number": 2,
+      "solutionCount": 1,
+      "title": "Add Two Numbers",
+      "at": 1788864224462
+    },
+    "11": {
+      "date": "2026-09-02",
+      "difficulty": "Medium",
+      "folderName": "0011-Container-With-Most-Water",
+      "language": "C++",
+      "number": 11,
+      "solutionCount": 1,
+      "title": "Container With Most Water",
+      "at": 1788864224462
+    },
+    "15": {
+      "date": "2026-09-07",
+      "difficulty": "Medium",
+      "folderName": "0015-3Sum",
+      "language": "Java",
+      "number": 15,
+      "solutionCount": 1,
+      "title": "3Sum",
+      "at": 1788864224462
+    },
+    "19": {
+      "date": "2026-09-06",
+      "difficulty": "Medium",
+      "folderName": "0019-Remove-Nth-Node-From-End-of-List",
+      "language": "Java",
+      "number": 19,
+      "solutionCount": 1,
+      "title": "Remove Nth Node From End of List",
+      "at": 1788864224462
+    },
+    "21": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0021-Merge-Two-Sorted-Lists",
+      "language": "Java",
+      "number": 21,
+      "solutionCount": 1,
+      "title": "Merge Two Sorted Lists",
+      "at": 1788864224462
+    },
+    "25": {
+      "date": "2026-09-06",
+      "difficulty": "Hard",
+      "folderName": "0025-Reverse-Nodes-in-k-Group",
+      "language": "Java",
+      "number": 25,
+      "solutionCount": 1,
+      "title": "Reverse Nodes in k-Group",
+      "at": 1788864224462
+    },
+    "41": {
+      "date": "2026-09-03",
+      "difficulty": "Hard",
+      "folderName": "0041-First-Missing-Positive",
+      "language": "C++",
+      "number": 41,
+      "solutionCount": 4,
+      "title": "First Missing Positive",
+      "at": 1788864224462
+    },
+    "61": {
+      "date": "2026-09-07",
+      "difficulty": "Medium",
+      "folderName": "0061-Rotate-List",
+      "language": "Java",
+      "number": 61,
+      "solutionCount": 1,
+      "title": "Rotate List",
+      "at": 1788864224462
+    },
+    "73": {
+      "date": "2026-09-05",
+      "difficulty": "Medium",
+      "folderName": "0073-Set-Matrix-Zeroes",
+      "language": "Java",
+      "number": 73,
+      "solutionCount": 1,
+      "title": "Set Matrix Zeroes",
+      "at": 1788864224462
+    },
+    "138": {
+      "date": "2026-09-07",
+      "difficulty": "Medium",
+      "folderName": "0138-Copy-List-with-Random-Pointer",
+      "language": "Java",
+      "number": 138,
+      "solutionCount": 1,
+      "title": "Copy List with Random Pointer",
+      "at": 1788864224462
+    },
+    "141": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0141-Linked-List-Cycle",
+      "language": "Java",
+      "number": 141,
+      "solutionCount": 1,
+      "title": "Linked List Cycle",
+      "at": 1788864224462
+    },
+    "142": {
+      "date": "2026-09-06",
+      "difficulty": "Medium",
+      "folderName": "0142-Linked-List-Cycle-II",
+      "language": "Java",
+      "number": 142,
+      "solutionCount": 1,
+      "title": "Linked List Cycle II",
+      "at": 1788864224462
+    },
+    "160": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0160-Intersection-of-Two-Linked-Lists",
+      "language": "Java",
+      "number": 160,
+      "solutionCount": 1,
+      "title": "Intersection of Two Linked Lists",
+      "at": 1788864224462
+    },
+    "206": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0206-Reverse-Linked-List",
+      "language": "Java",
+      "number": 206,
+      "solutionCount": 1,
+      "title": "Reverse Linked List",
+      "at": 1788864224462
+    },
+    "234": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0234-Palindrome-Linked-List",
+      "language": "Java",
+      "number": 234,
+      "solutionCount": 2,
+      "title": "Palindrome Linked List",
+      "at": 1788864224462
+    },
+    "237": {
+      "date": "2026-09-06",
+      "difficulty": "Medium",
+      "folderName": "0237-Delete-Node-in-a-Linked-List",
+      "language": "Java",
+      "number": 237,
+      "solutionCount": 1,
+      "title": "Delete Node in a Linked List",
+      "at": 1788864224462
+    },
+    "876": {
+      "date": "2026-09-06",
+      "difficulty": "Easy",
+      "folderName": "0876-Middle-of-the-Linked-List",
+      "language": "Java",
+      "number": 876,
+      "solutionCount": 1,
+      "title": "Middle of the Linked List",
+      "at": 1788864224462
+    }
+  },
+  "achievements": {},
+  "sheets": {},
+  "days": [
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-05",
+    "2026-09-06",
+    "2026-09-07"
+  ],
+  "bests": {
+    "longestStreak": 3,
+    "pushes": 23
+  }
+}
