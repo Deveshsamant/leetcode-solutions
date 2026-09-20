@@ -2,7 +2,7 @@
 
 # 41. First Missing Positive
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-6-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--20-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-7-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--20-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/first-missing-positive/)
 
@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Hash Table — best runtime 97 ms (Beats 5%), best memory 84.5 MB (Beats 5%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Hash Table — best runtime 94 ms (Beats 5%), best memory 84.5 MB (Beats 5%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
-| **Time to solve** | 1 min |
-| **Verdicts** | ✅ Accepted |
+| **Attempts** | 2 before accepted |
+| **Time to solve** | 22 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -38,7 +38,7 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (6)
+### SOLUTIONS (7)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
@@ -47,7 +47,8 @@ _No notes yet._
 | 3 | [sol3.cpp](./sol3.cpp) | `C++` | 2026-09-20 |
 | 4 | [sol4.cpp](./sol4.cpp) | `C++` | 2026-09-20 |
 | 5 | [sol5.cpp](./sol5.cpp) | `C++` | 2026-09-20 |
-| 6 | [sol6.cpp](./sol6.cpp) | `C++` | 2026-09-20 ← **latest** |
+| 6 | [sol6.cpp](./sol6.cpp) | `C++` | 2026-09-20 |
+| 7 | [sol7.cpp](./sol7.cpp) | `C++` | 2026-09-20 ← **latest** |
 
 ---
 
