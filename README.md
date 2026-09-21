@@ -38,7 +38,7 @@
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `Java` | 2026-09-06 |
 | 25 | [Reverse Nodes in k-Group](problems/0025-Reverse-Nodes-in-k-Group) | 🟥 Hard | `Java` | 2026-09-06 |
 | 26 | [Remove Duplicates from Sorted Array](problems/0026-Remove-Duplicates-from-Sorted-Array) | 🟩 Easy | `Java` | 2026-09-08 |
-| 41 | [First Missing Positive](problems/0041-First-Missing-Positive) | 🟥 Hard | `C++` | 2026-09-20 |
+| 41 | [First Missing Positive](problems/0041-First-Missing-Positive) | 🟥 Hard | `C++` | 2026-09-21 |
 | 42 | [Trapping Rain Water](problems/0042-Trapping-Rain-Water) | 🟥 Hard | `Java` | 2026-09-08 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-07 |
 | 73 | [Set Matrix Zeroes](problems/0073-Set-Matrix-Zeroes) | 🟧 Medium | `Java` | 2026-09-05 |
