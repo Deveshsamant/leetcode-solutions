@@ -2,7 +2,7 @@
 
 # 41. First Missing Positive
 
-![Difficulty](https://img.shields.io/badge/DIFFICULTY-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-8-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--21-605d5d?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/DIFFICULTY-Hard-ef4743?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/LANGUAGE-C%2B%2B-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Solutions](https://img.shields.io/badge/SOLUTIONS-9-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/DATE-2026--09--21-605d5d?style=for-the-badge&labelColor=1a1a2e)
 
 [![View on LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/first-missing-positive/)
 
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 4 before accepted |
-| **Time to solve** | 22 h 22 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted |
+| **Attempts** | 5 before accepted |
+| **Time to solve** | 22 h 23 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
@@ -36,7 +36,7 @@ _No notes yet._
 
 ---
 
-### SOLUTIONS (8)
+### SOLUTIONS (9)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
@@ -47,7 +47,8 @@ _No notes yet._
 | 5 | [sol5.cpp](./sol5.cpp) | `C++` | 2026-09-21 |
 | 6 | [sol6.cpp](./sol6.cpp) | `C++` | 2026-09-21 |
 | 7 | [sol7.cpp](./sol7.cpp) | `C++` | 2026-09-21 |
-| 8 | [sol8.cpp](./sol8.cpp) | `C++` | 2026-09-21 ← **latest** |
+| 8 | [sol8.cpp](./sol8.cpp) | `C++` | 2026-09-21 |
+| 9 | [sol9.cpp](./sol9.cpp) | `C++` | 2026-09-21 ← **latest** |
 
 ---
 
