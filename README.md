@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-24%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-9%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-25%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-10%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-11%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -42,6 +42,7 @@
 | 42 | [Trapping Rain Water](problems/0042-Trapping-Rain-Water) | 🟥 Hard | `Java` | 2026-09-08 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-07 |
 | 73 | [Set Matrix Zeroes](problems/0073-Set-Matrix-Zeroes) | 🟧 Medium | `Java` | 2026-10-12 |
+| 118 | [Pascal's Triangle](problems/0118-Pascals-Triangle) | 🟩 Easy | `Java` | 2026-10-12 |
 | 138 | [Copy List with Random Pointer](problems/0138-Copy-List-with-Random-Pointer) | 🟧 Medium | `Java` | 2026-09-07 |
 | 141 | [Linked List Cycle](problems/0141-Linked-List-Cycle) | 🟩 Easy | `Java` | 2026-09-06 |
 | 142 | [Linked List Cycle II](problems/0142-Linked-List-Cycle-II) | 🟧 Medium | `Java` | 2026-09-06 |
